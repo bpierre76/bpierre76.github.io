@@ -1,0 +1,46 @@
+assessment_full,assessment_short,assessment_type,start_date,end_date,n
+Montgomery-Asberg Depression Rating Scale,MADRS,Depression;,01-May-15,,200(sen) + (pact) + 50(opt)
+Clinical Dementia Rating Scale,CDR,Dementia;,01-May-15,01-May-21,250
+Boston Verbal Memory Test,BVMT-R,Visuospatial Memory;,01-Oct-14,01-Dec-19,
+California Verbal Learning Test,CVLT-II,Verbal Memory;,01-Oct-14,01-Dec-19,
+Delis-Kaplan Executive Function System,D-KEFS,,01-Dec-18,,300
+Repeatable Battery for Neuropsychological Status,RBANS,,01-Dec-16,,350
+Cumulative Illness Rating Scale-Geriatric,CIRS-G,,01-Dec-18,01-Mar-20,150
+Controlled Oral Word Association Test,COWAT,Verbal Fluency;,01-Oct-14,01-Dec-18,
+Boston Naming Test,BNT,,01-Oct-14,01-Dec-18,
+Trail Making Test,TMT,,01-Oct-14,,
+Wechsler Adult Intelligence Scale-V,WAIS-V,Intelligence;,,,
+Wechsler Adult Intelligence Scale-V (French Canadian),WAIS-IV CDN-FR,Intelligence;,01-Sep-21,,
+Perceived Stress Scale,PSS,,01-Dec-18,,
+Generalized Anxiety Disorder Scale,GAD-7,,01-Dec-18,,
+Personal Health Questionnaire,PHQ-9,,01-Jun-15,,600
+,WHODAS,,01-Dec-18,,
+Fatigue Assessment Scale,FAS,,01-Dec-18,,250
+Everyday Cognition,ECog,,01-Oct-14,,190+(Sen)
+Beck Scale for Suicidal Ideation,SSI,Depression; Suicide,01-Dec-18,,250
+Antidepressant Treatment History Form,ATHF,Depression,01-Dec-18,01-Dec-22,250
+Montreal Cognitive Assessment,MoCA,,01-Jun-16,,450
+Positive and Negative Symptom Scale,PANSS,Schizophrenia;,01-Aug-12,01-Oct-17,300
+Brief Psychiatric Rating Scale,BPRS,,01-Aug-12,01-Aug-14,70
+Columbia Suicide Severity Rating Scale,C-SSRS,,01-Jun-20,01-Oct-22,25
+Hamilton Depression Rating Scale,HAM-D,,01-Aug-12,01-Dec-14,150
+MATRICS Consensus Cognitive Battery,MCCB,Schizophrenia;,01-Aug-12,01-Dec-21,1000
+,CPT-IP,,01-Oct-14,01-Dec-19,
+,PASAT,,01-Oct-14,01-Dec-19,
+,WAIS-IV,,,,100
+,WAIS-III,,,,50
+,WAIS-II,,,,30
+,WISC-IV,,,,80
+,WPPSI-IV,,01-May-18,,120
+,WPPSI-III,,01-May-11,01-May-13,120
+,WIAT-II,,01-Mar-16,01-Aug-16,150
+,WASI-II,,,,
+,WIAT-III,,01-Apr-13,01-Apr-14,150
+,WIAT-IV,,01-Sep-21,,
+Structured Clinical Interview for DSM-IV,SCID-IV,,01-Aug-12,30-May-16,250
+Structured Clinical Interview for DSM-5,SCID-5,,30-May-16,30-May-18,50
+,WISC-V,,01-Apr-13,,50
+Mini-International Neuropsychiatric Interview,MINI,,01-Dec-18,01-Mar-20,60
+Mini-Mental Status Examination,MMSE,,01-Aug-13,01-Dec-16,
+Wide Range Achievement Test 4,WRAT-4,,01-Dec-18,01-Mar-20,150(sen)
+Kaplan Baycrest Neurocognitive Assessment,KBANA,,01-Apr-13,01-Apr-14,60
